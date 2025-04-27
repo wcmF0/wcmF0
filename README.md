@@ -13,9 +13,8 @@
   <img align="center" alt="wcmF0-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="wcmF0-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
-<div>
 
-</div>  
+##
   
 <div>
   <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank">
