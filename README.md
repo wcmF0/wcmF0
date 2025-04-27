@@ -2,6 +2,8 @@
 🌟 Desenvolvedor apaixonado por criar soluções inovadoras e aprender novas tecnologias.
 
 👨‍💻 Focado em desenvolvimento web
+
+📝 Atualmente estudando Java♨️
 <div>
   <a href="https://github.com/wcmF0"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wcmF0&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
