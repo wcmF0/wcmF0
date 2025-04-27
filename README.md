@@ -1,7 +1,9 @@
 ## Olá, eu sou o Wagner! 👋
-🌟 Desenvolvedor apaixonado por criar soluções inovadoras e aprender novas tecnologias.
+💻 Code lover, quebrando teclados e debugando códigos todos os dias.  
 
-👨‍💻 Focado em desenvolvimento web
+🎮 Gamer nas horas vagas
+
+☕ Movido a café
 
 📝 Atualmente estudando Java♨️
 <div>
